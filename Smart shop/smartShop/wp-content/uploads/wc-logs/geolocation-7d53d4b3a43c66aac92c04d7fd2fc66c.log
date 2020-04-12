@@ -1,0 +1,4 @@
+2018-05-25T12:04:14+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve host: geolite.maxmind.com
+2018-05-25T12:04:14+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve host: geolite.maxmind.com
+2018-06-14T10:31:47+00:00 NOTICE Unable to download GeoIP Database: cURL error 7: Failed connect to geolite.maxmind.com:80; No error
+2018-06-14T10:31:47+00:00 NOTICE Unable to download GeoIP Database: cURL error 7: Failed connect to geolite.maxmind.com:80; No error

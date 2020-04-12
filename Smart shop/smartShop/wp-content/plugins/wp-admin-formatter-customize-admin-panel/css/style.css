@@ -1,0 +1,21 @@
+/* CSS Document */
+
+
+.wpaf-width-uploadfile {
+    width: 8em !important;
+}
+.wpaf-field-description {
+    color: #858585 !important;
+    font-size: 13px !important;
+    line-height: 2px !important;
+}
+.wp-picker-container input[type=text].wp-color-picker {
+    margin: 0px 10px 0px 0 !important;
+}
+.wpaf-width-login-label h3 {
+    width: 230px !important;
+    margin: 0 !important;
+}
+#wpadminbar #wp-admin-bar-user-info .ab-item {
+    height: 31px !important;
+}
